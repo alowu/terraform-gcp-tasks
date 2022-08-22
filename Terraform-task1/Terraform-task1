@@ -1,0 +1,2 @@
+Simple configuration for creating a VM and attaching it to a network. Follow the instruction from "Terraform-intro" and comments in every file of this directory before doing "terraform init".
+Don't forget to create and download a service key with proper access for required tasks listed in your config.

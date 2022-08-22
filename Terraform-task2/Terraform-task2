@@ -1,0 +1,3 @@
+Terraform configuration for creating a VM with specific firewall rules and apache web-server on it. Follow the instruction from "Terraform-intro" and comments in every file of this directory before doing "terraform init".
+
+After running "terraform apply" wait a little bit for VM to spin up and try "vm-external-ip" address provided by the output of terraform to see default apache page.

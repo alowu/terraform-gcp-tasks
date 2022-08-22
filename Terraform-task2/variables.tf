@@ -1,0 +1,9 @@
+variable "project" {}
+variable "credentials_file" {}
+variable "region" {}
+variable "zone" {}
+variable "app_name" {}
+variable "app_domain" {}
+variable "app_environment" {}
+variable "app_project" {}
+variable "public_subnet_cidr_1" {}
